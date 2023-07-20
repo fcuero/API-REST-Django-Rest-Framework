@@ -1,5 +1,4 @@
 # API-REST-Star-Wars
-Me Rechazaron xd
  <br>
 <img src="https://i.ibb.co/Z1X97XF/code.png" alt="code" border="0">
 <h4> TECNOLOGIAS UTILIZADAS </b><br>
